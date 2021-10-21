@@ -53,11 +53,11 @@ address {
 }
 
 #starters {
-   border: 2px solid thick black;
+   border: 2px solid black;
 }
 
 #desserts {
-   border: 2px solid thick black;
+   border: 2px solid black;
 }
 
 /* Right-align the text of the address/footer */
